@@ -1,20 +1,20 @@
-# 📌 API de Consulta de CEP
+# API de Consulta de CEP
 
 API REST desenvolvida para realizar consultas de CEP utilizando a integração com o serviço público do [ViaCEP](https://viacep.com.br/).  
 A aplicação recebe um CEP como entrada e retorna os dados de endereço correspondentes de forma rápida e padronizada.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- 🔍 Consulta de endereço por CEP  
-- ⚡ Integração com API externa ViaCEP  
-- 📦 Retorno em formato JSON  
-- ✅ Validação de CEP  
+- Consulta de endereço por CEP  
+- Integração com API externa ViaCEP  
+- Retorno em formato JSON  
+- Validação de CEP  
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java  
 - Spring Boot  
@@ -23,7 +23,7 @@ A aplicação recebe um CEP como entrada e retorna os dados de endereço corresp
 
 ---
 
-## ▶️ Como executar o projeto
+## Como executar o projeto
 
 ```bash
 # Clonar o repositório
